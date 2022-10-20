@@ -2,7 +2,7 @@
   "name": "@feifei/car-rental",
   "version": "1.0.0",
   "private": true,
-  "homepage": "/",
+  "homepage": "/car_rental",
   "dependencies": {
     "axios": "0.21.1",
     "classnames": "2.2.6",
